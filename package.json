@@ -1,0 +1,22 @@
+{
+  "name": "caczhtus-imgs",
+  "version": "1.0.0",
+  "description": "this is my blog's photo repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caczhtus/Caczhtus-imgs.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "caczhtus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caczhtus/Caczhtus-imgs/issues"
+  },
+  "homepage": "https://github.com/Caczhtus/Caczhtus-imgs#readme"
+}
